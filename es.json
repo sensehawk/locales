@@ -2,5 +2,6 @@
   "app.core": "Corea",
   "app.missions": "Missiones",
   "app.terra": "Terrea",
-  "app.therm": "Therme"
+  "app.therm": "Therme",
+  "app.tickets.description": "Descripción"
 }
