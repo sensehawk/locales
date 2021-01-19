@@ -1,4 +1,6 @@
 {
   "app.core": "Core",
-  "app.terra": "Terra"
+  "app.missions": "Missions",
+  "app.terra": "Terra",
+  "app.therm": "Therm"
 }
